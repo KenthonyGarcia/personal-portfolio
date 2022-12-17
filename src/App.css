@@ -1,17 +1,17 @@
 /* Custom Fonts*/
 @font-face{
   font-family: sans-serif;
-  src: url("./assets/fonts/");
+  src: url("./assets/fonts/ssurround/Cafe24Ssurroundair.ttf");
   font-weight: 700
 }
 @font-face{
   font-family: sans-serif;
-  src: url("./assets/fonts/");
+  src: url("./assets/fonts/ssurround/Cafe24Ssurround.ttf");
   font-weight: 500
 }
 @font-face{
   font-family: sans-serif;
-  src: url("./assets/fonts/");
+  src: url("./assets/fonts/informe/Informe_light.ttf");
   font-weight: 400
 }
 
