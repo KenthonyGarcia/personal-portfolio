@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import { NavBar } from './components/NavBar.js';
 import { Banner } from './components/Banner.js';
+import { Footer } from "./components/Footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
@@ -11,6 +12,7 @@ function App() {
     <div className="App">
       <NavBar/>
       <Banner/>
+      <Footer/>
     </div>
   );
 }
