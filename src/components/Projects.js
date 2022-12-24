@@ -10,13 +10,14 @@ export const Projects = () => {
   const projects = [
     {
       title: "Rift Tracker",
+      language: "Python Flask, HTML, CSS",
       description: "Summoner/user search for league of legends using Python Flask with AWS S3 and DynamoDB",
       imgUrl: projImg1,
     },
   ];
 
   return (
-    <section className="project" id="project">
+    <section className="project" id="projects">
       <Container>
         <Row>
           <Col size={12}>

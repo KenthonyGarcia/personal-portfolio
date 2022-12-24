@@ -4,6 +4,7 @@ import { ArrowRightCircle } from "react-bootstrap-icons";
 import headerImg from "../assets/img/header-img.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
+import { HashLink } from 'react-router-hash-link';
 
 export const Banner = () => {
     const [loopNum, setLoopNum] = useState(0);
@@ -46,7 +47,9 @@ export const Banner = () => {
                         <span className="tagline">Welcome to my Portfolio</span>
                         <h1>{"Hi I'm Kenthony "}<span className="wrap">{text}</span></h1>
                         <p>About Me</p>
-                        <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
+                        <form>
+                            <button class="btn" type="submit" formaction='#connect' >Let’s Connect <ArrowRightCircle size={25} /></button>
+                        </form>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
                         <TrackVisibility>
