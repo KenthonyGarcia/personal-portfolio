@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.faad5d83.css",
-    "main.js": "/personal-portfolio/static/js/main.e1a8eac9.js",
+    "main.js": "/personal-portfolio/static/js/main.6c80cb7b.js",
     "static/js/787.fb771931.chunk.js": "/personal-portfolio/static/js/787.fb771931.chunk.js",
     "static/media/Cafe24Ssurroundair.ttf": "/personal-portfolio/static/media/Cafe24Ssurroundair.f176b0e0c106f50dd8bd.ttf",
     "static/media/banner-bg.png": "/personal-portfolio/static/media/banner-bg.b9be62162beec0f1f22f.png",
     "static/media/project-img1.png": "/personal-portfolio/static/media/project-img1.0bb1b3b862c406947d89.png",
     "static/media/Cafe24Ssurround.ttf": "/personal-portfolio/static/media/Cafe24Ssurround.a5df3ce700ca6c98875c.ttf",
+    "static/media/project-img2.png": "/personal-portfolio/static/media/project-img2.a5d787adfb2f729f8ef8.png",
     "static/media/color-sharp.png": "/personal-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/personal-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/header-img.png": "/personal-portfolio/static/media/header-img.ad4fc0498394a8376020.png",
-    "static/media/resume.pdf": "/personal-portfolio/static/media/resume.b7a09e7490af8a99d85d.pdf",
+    "static/media/resume.pdf": "/personal-portfolio/static/media/resume.d51a416b3f95d052c5da.pdf",
     "static/media/contact-img.svg": "/personal-portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/Informe_light.ttf": "/personal-portfolio/static/media/Informe_light.e0a44df45e7d3411150a.ttf",
     "static/media/revicons.eot": "/personal-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
@@ -26,11 +27,11 @@
     "static/media/arrow1.svg": "/personal-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon3.svg": "/personal-portfolio/static/media/nav-icon3.9d8638b882909bb9574183b014b943c8.svg",
     "main.faad5d83.css.map": "/personal-portfolio/static/css/main.faad5d83.css.map",
-    "main.e1a8eac9.js.map": "/personal-portfolio/static/js/main.e1a8eac9.js.map",
+    "main.6c80cb7b.js.map": "/personal-portfolio/static/js/main.6c80cb7b.js.map",
     "787.fb771931.chunk.js.map": "/personal-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.faad5d83.css",
-    "static/js/main.e1a8eac9.js"
+    "static/js/main.6c80cb7b.js"
   ]
 }
