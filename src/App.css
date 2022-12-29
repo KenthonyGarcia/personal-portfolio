@@ -252,7 +252,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 /************ Skills Css ************/
 .skill {
-  padding: 0 0 50px 0;
+  padding: 0 0 90px 0;
   position: relative;
   background: linear-gradient(90.21deg, rgba(17, 180, 245, 0.5) -5.91%, rgba(183, 151, 224, 0.5) 111.58%);
 }
@@ -261,7 +261,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-radius: 64px;
   text-align: center;
   padding: 60px 50px;
-  margin-top: -60px;
+  margin-top: 80px;
 }
 .skill h2, h5 {
 	font-size: 45px;
