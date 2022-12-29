@@ -1,6 +1,7 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/project-img1.png";
+import projImg2 from "../assets/img/project-img2.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -13,6 +14,12 @@ export const Projects = () => {
       language: "Python Flask, HTML, CSS",
       description: "Summoner/user search for league of legends using Python Flask with AWS S3 and DynamoDB",
       imgUrl: projImg1,
+    },
+    {
+      title: "VR Maze",
+      language: "C#",
+      description: "Created a VR maze that introduces traps and objectives that would hinder user's progress. Users are forced to problem-solve in order to avoid traps and fulfill the objectives that are required to complete the maze.",
+      imgUrl: projImg2,
     },
   ];
 
