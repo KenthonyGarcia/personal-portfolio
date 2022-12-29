@@ -45,7 +45,13 @@ export const Banner = () => {
                     <Col xs={12} md={6} xl={7} >
                         <span className="tagline">Welcome to my Portfolio</span>
                         <h1>{"Hi I'm Kenthony "}<span className="wrap">{text}</span></h1>
-                        <p>About Me</p>
+                        <p> 
+                            I am interested in a career as a Software Developer since I like solving problems and 
+                            also learning from those experiences to further enhance my critical thinking skills for solving problems. 
+                            I am also passionate about technology and how software can be used to help improve technology. 
+                            I’m excited about the opportunity to leverage the new skills I have attained throughout my college career, 
+                            and I’m eager to demonstrate my commitment to developing software programs and improving existing ones.
+                        </p>
                         <form>
                             <button class="btn" type="submit" formaction='#connect' >Let’s Connect <ArrowRightCircle size={25} /></button>
                         </form>
