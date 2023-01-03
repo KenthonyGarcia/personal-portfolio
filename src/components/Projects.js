@@ -2,6 +2,7 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/project-img1.png";
 import projImg2 from "../assets/img/project-img2.png";
+import projImg3 from "../assets/img/project-img3.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -11,7 +12,7 @@ export const Projects = () => {
   const projects = [
     {
       title: "Rift Tracker",
-      language: "Python Flask, HTML, CSS",
+      language: "Python Flask, HTML, CSS, S3, DynamoDB",
       description: "Summoner/user search for league of legends using Python Flask with AWS S3 and DynamoDB",
       imgUrl: projImg1,
     },
@@ -20,6 +21,12 @@ export const Projects = () => {
       language: "C#",
       description: "Created a VR maze that introduces traps and objectives that would hinder user's progress. Users are forced to problem-solve in order to avoid traps and fulfill the objectives that are required to complete the maze.",
       imgUrl: projImg2,
+    },
+    {
+      title: "Campus Management System",
+      language: "PERN technology stack",
+      description: "Building a RESTful full-stack web application using the full-stack web technologies of PostgreSQL, Express, React, and Node.js (i.e., the PERN technology stack). The system consists of both client and server applications.",
+      imgUrl: projImg3,
     },
   ];
 
